@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-nz-census-geojson",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nzherald/mongodb-nz-census-geojson",
+  "authors": [
+    "Caleb <caleb.tutty@nzherald.co.nz>"
+  ],
+  "description": "Import Census geojson",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nz_areaunit_geojson": "git@github.com:nzherald/nz_areaunit_geojson.git#~1.0.0"
+  }
+}

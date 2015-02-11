@@ -1,0 +1,31 @@
+{
+  "name": "mongodb-nz-census-geojson",
+  "version": "0.0.1",
+  "description": "Import NZ Census boundary GeoJSON into MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nzherald/mongodb-nz-census-geojson.git"
+  },
+  "keywords": [
+    "new zealand",
+    "census",
+    "mongodb",
+    "geojson"
+  ],
+  "author": "The New Zealand Herald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nzherald/mongodb-nz-census-geojson/issues"
+  },
+  "homepage": "https://github.com/nzherald/mongodb-nz-census-geojson",
+  "dependencies": {
+    "mongodb": "~1.4.30",
+    "monk": "~0.9.1",
+    "glob": "^4.3.5",
+    "dotenv": "0.5.1"
+  }
+}
