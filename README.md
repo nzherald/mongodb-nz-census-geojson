@@ -29,7 +29,7 @@ Units](https://github.com/nzherald/nz_area_units_geojson)
 
 ### Why is there a geojson folder inside the repo?
 
-Because Github will truncates large file lists.
+Because Github truncates large file lists.
 
 
 ## Why would anyone want to use this?
