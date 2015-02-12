@@ -17,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "nz_areaunit_geojson": "git@github.com:nzherald/nz_areaunit_geojson.git#~1.0.0"
+    "nz_area_units_geojson": "git@github.com:nzherald/nz_area_units_geojson.git#~1.0.0"
   }
 }
